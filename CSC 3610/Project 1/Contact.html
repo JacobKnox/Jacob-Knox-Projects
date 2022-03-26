@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Jacob Knox | Contact Page</title>
+  </head>
+  <body>
+    <nav> <!-- Navigational buttons directing to each page of the website -->
+      <button type="button" name="navBut1" id="navBut1"><a class="navButton" href="Home.html">Home</a></button>
+      <button type="button" name="navBut2" id="navBut2"><a class="navButton" href="Lakeland.html">Lakeland</a></button>
+      <button type="button" name="navBut3" id="navBut3"><a class="navButton" href="Projects.html">Projects</a></button>
+      <button type="button" name="navBut4" id="navBut4"><a class="navButton" href="Pets.html">Pets</a></button>
+      <button type="button" name="navBut5" id="navBut5"><a class="navButton" href="Quotes.html">Quotes</a></button>
+      <button type="button" name="navBut6" id="navBut6"><a class="navButton" href="Contact.html">Contact</a></button>
+    </nav>
+    <h1>Contact Me</h1>
+    <form id="contactForm" action="Contact.html" method="post">
+      <div class="formDiv">
+        <label for="name"><strong>Name:</strong></label>
+        <input type="text" name="name" id="name" placeholder="John Doe" required>
+      </div>
+      <div class="formDiv">
+        <label for="subject"><strong>Subject:</strong></label>
+        <input type="text" name="subject" id="subject" placeholder="RE: Your Car's Extended Warranty" required>
+      </div>
+      <div class="formDiv">
+        <label for="message"><strong>Message:</strong></label>
+        <div> <!-- Nested div required to keep label and textarea on different lines; could just do a br tag, but div keeps with the style of the code -->
+          <textarea name="message" id="message" rows="8" cols="80"></textarea>
+        </div>
+      </div>
+      <div class="formDiv">
+        <label for="warranty">I agree to be contacted regarding my car's extended warranty</label>
+        <input type="checkbox" name="warranty" id="warranty">
+      </div>
+      <div class="formDiv"> <!-- div not really required here, but including for consistency and styling purposes, even though we aren't doing CSS -->
+        <input type="submit" name="submit" id="submit" value="Submit">
+      </div>
+    </form>
+  </body>
+</html>

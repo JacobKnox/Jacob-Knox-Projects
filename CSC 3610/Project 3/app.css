@@ -1,0 +1,48 @@
+body{
+	background-color: #F5D9D5;
+	font-family: Nunito;
+	color: #F498B8;
+	font-weight: 100;
+	font-size: 1.125rem;
+	line-height: 2;
+}
+.red, .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-nav .nav-link:hover{
+	color: #EA1C2C;
+}
+.nav-link, .navbar-brand{
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+.navbar-dark .navbar-nav .nav-link, .white{
+	color: #FFFFFF;
+}
+#topText{
+	font-weight: 100px;
+	font-size: 4rem;
+}
+.row{
+	max-width: 100%;
+}
+.head{
+	font-weight: 100;
+	font-size: 2.5rem;
+}
+.row{
+	margin-top: 100px;
+}
+.row.top{
+	margin-top: 0px;
+}
+.card, form{
+	color: black;
+}
+.row.staff{
+	margin-top: 0px;
+}
+
+
+@media (max-width: 1200px) {
+	#topText{
+		font-size: 3rem;
+	}
+}
