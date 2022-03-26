@@ -9,3 +9,4 @@ A basic program to simulate a "car wash" using stacks, queues, and objects. Desp
 - Knowledge of [queues](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCcarClean/FSCcarCleanQ.java)
 - Ability to adhere to strict output requirements
 - Knowledge of classes and objects
+- Ability to write thorough and clear comments
