@@ -3,7 +3,7 @@ This folder holds all of my projects from my CSC 3280 - Data Structures (Fall 20
 
 ## [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCcarClean)
 ### Description
-A basic program to simulate a "car wash" using stacks, queues, and objects. Despite being provided examples of queues and stacks, all code was written and commented strictly by me.
+A basic program to simulate a "car wash" using stacks, queues, and objects.
 
 Total Length (including comments and blank lines): 626 lines.
 ### Skills Demonstrated
@@ -15,7 +15,7 @@ Total Length (including comments and blank lines): 626 lines.
 
 ## [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCgradeBook)
 ### Description
-A basic program to simulate a gradebook using arrays, singly linked lists, and objects. Despite being provided examples of linked lists, all code was written and commented strictly by me.
+A basic program to simulate a gradebook using arrays, singly linked lists, and objects.
 
 Total Length (including comments and blank lines): 769 lines.
 ### Skills Demonstrated
