@@ -1,4 +1,4 @@
-# Jacob-Knox-Projects
+# Jacob Knox Projects
 A repository of all of my projects and coding solutions/shenanigans.
 ## Project Directory
 ### [CSC 3280 - Data Structures](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md)
