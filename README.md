@@ -1,5 +1,7 @@
 # Jacob Knox Projects
 A repository of all of my projects and coding solutions/shenanigans.
+
+Quick Links: [Course Projects](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#project-directory) | [Smaller Problems Solved](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#other)
 ## Project Directory
 ### [CSC 3280 - Data Structures](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md)
 - [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-car-clean)
