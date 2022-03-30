@@ -1,7 +1,7 @@
 # LeetCode Solutions
 This folder holds all of my accepted solutions to LeetCode problems I have attempted.
 
-Quick Links: [Statistics](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#statistics) | [Skills](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#skills) | [Problems Solved]()
+Quick Links: [Statistics](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#statistics) | [Skills](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#skills) | [Problems Solved](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#problems-solved)
 
 ## Statistics
 - 36 problems solves (1.6% of all problems)
