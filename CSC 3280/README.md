@@ -40,12 +40,27 @@ A simple program that implements four resursive methods:
 
 Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program3_Fall2021.pdf).
 
-Total Length (including comments and blank lines): 277 lines
+Total Length (including comments and blank lines): 277 lines.
 ### Skills Demonstrated
 - Knowledge of recursion
 - Ability to adhere to strict output requirements
 - Ability to write thorough and clear comments
 - Ability to use wrapper and helper methods
 - Knowledge of switch statements
+
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+## [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCsharingiscaring)
+### Description
+A program that simulates a new "proposed" network system at Florida Southern College where students can opt-in to have their devices used as a mobile hotspot for FSC's internet, which would thus extend the range of the campus' wifi. Each student controls devices that are and are not allowed to access their hotspot.
+
+Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program5_Fall2021.pdf).
+
+Total Length (including comments and blank lines): 817 lines.
+### Skills Demonstrated
+- Knowledge of [binary search trees](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscBST.java)
+- Knowledge of [linked lists](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscLinkedDevices.java)
+- Knowledge of switch statements
+- Ability to adhere to strict output requirements
+- Knowledge of classes and objects
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
