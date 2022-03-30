@@ -1,7 +1,7 @@
 # CSC 3280 Projects
 This folder holds all of my projects from my CSC 3280 - Data Structures (Fall 2021) course at Florida Southern College.
 
-Quick Links: [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-car-clean) | [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-gradebook) | [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-recurse) | [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-sharing-is-caring)
+Quick Links: [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-car-clean) | [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-gradebook) | [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-recurse) | [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-sharing-is-caring) | [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#mocs-bank)
 ## [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCcarClean)
 ### Description
 A basic program to simulate a "car wash" using stacks, queues, and objects. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program4_Fall2021.pdf).
@@ -51,15 +51,27 @@ Total Length (including comments and blank lines): 277 lines.
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
 ## [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCsharingiscaring)
 ### Description
-A program that simulates a new "proposed" network system at Florida Southern College where students can opt-in to have their devices used as a mobile hotspot for FSC's internet, which would thus extend the range of the campus' wifi. Each student controls devices that are and are not allowed to access their hotspot.
-
-Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program5_Fall2021.pdf).
+A program that simulates a new "proposed" network system at Florida Southern College where students can opt-in to have their devices used as a mobile hotspot for FSC's internet, which would thus extend the range of the campus' wifi. Each student controls devices that are and are not allowed to access their hotspot. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program5_Fall2021.pdf).
 
 Total Length (including comments and blank lines): 817 lines.
 ### Skills Demonstrated
 - Knowledge of [binary search trees](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscBST.java)
 - Knowledge of [linked lists](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscLinkedDevices.java)
 - Knowledge of switch statements
+- Ability to adhere to strict output requirements
+- Knowledge of classes and objects
+
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+## [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/MocsBank)
+### Description
+A program that simulates a banking system for students at Florida Southern College. Students/Customers can open an account, request the balance on their account, deposit into their account, withdraw from their account, transfer money from their account to another customer's account, and close their account. There is also a command to print all transactions that have been done that day.
+
+Total Length (including comments and blank lines): 609 lines.
+### Skills
+- Knowledge of arrays
+- Knowledge of switch cases
+- Knowledge of file input and output
+- Ability to write thorough comments
 - Ability to adhere to strict output requirements
 - Knowledge of classes and objects
 
