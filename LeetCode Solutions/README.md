@@ -11,6 +11,8 @@ Quick Links: [Statistics](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/
 
 Updated statistics can be found on my [LeetCode profile](https://leetcode.com/JKnox203/).
 
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#leetcode-solutions)
+
 ## Skills
 ### Advanced
 - Divide and Conquer (3)
@@ -38,6 +40,8 @@ Updated statistics can be found on my [LeetCode profile](https://leetcode.com/JK
 
 Updated skills can be found on my [LeetCode profile](https://leetcode.com/JKnox203/).
 
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#leetcode-solutions)
+
 ## Problems Solved
 ### Hard
 None solved yet.
@@ -49,3 +53,5 @@ None solved yet.
 ### Easy
 - ([Problem](https://leetcode.com/problems/island-perimeter/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem463.java)) Problem 463: Island Perimeter
 - ([Problem](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem733.java)) Problem 733: Flood Fill
+
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#leetcode-solutions)
