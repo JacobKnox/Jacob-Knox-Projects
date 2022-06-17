@@ -67,7 +67,7 @@ Total Length (including comments and blank lines): 817 lines.
 A program that simulates a banking system for students at Florida Southern College. Students/Customers can open an account, request the balance on their account, deposit into their account, withdraw from their account, transfer money from their account to another customer's account, and close their account. There is also a command to print all transactions that have been done that day. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program1_Fall2021.pdf).
 
 Total Length (including comments and blank lines): 609 lines.
-### Skills
+### Skills Demonstrated
 - Knowledge of arrays
 - Knowledge of switch cases
 - Knowledge of file input and output
