@@ -46,6 +46,7 @@ Updated skills can be found on my [LeetCode profile](https://leetcode.com/JKnox2
 ### Hard
 None solved yet.
 ### Medium
+- ([Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem19.java)) Problem 19: Remove Nth Node From End of List
 - ([Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem695.java)) Problem 695: Max Area of Island
 - ([Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem743.java)) Problem 743: Network Delay Time
 - ([Problem](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1334.java)) Problem 1334: Find the City With the Smallest Number of Neighbors at a Threshold Distance
