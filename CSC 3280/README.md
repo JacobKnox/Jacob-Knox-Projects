@@ -1,5 +1,5 @@
 # CSC 3280 Projects
-This folder holds all of my projects from my CSC 3280 - Data Structures (Fall 2021) course at Florida Southern College.
+This folder holds all of my projects from my CSC 3280 - Data Structures (Fall 2021) course at Florida Southern College. Each project demonstrates my ability to adhere to strict output requirements, to write thorough and clear comments, and to program in an object oriented manner.
 
 Quick Links: [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-car-clean) | [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-gradebook) | [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-recurse) | [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-sharing-is-caring) | [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#mocs-bank)
 ## [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCcarClean)
@@ -10,9 +10,6 @@ Total Length (including comments and blank lines): 626 lines.
 ### Skills Demonstrated
 - Knowledge of [stacks](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCcarClean/FSCvouchers.java)
 - Knowledge of [queues](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCcarClean/FSCcarCleanQ.java)
-- Ability to adhere to strict output requirements
-- Knowledge of classes and objects
-- Ability to write thorough and clear comments
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
 
@@ -24,9 +21,6 @@ Total Length (including comments and blank lines): 769 lines.
 ### Skills Demonstrated
 - Knowledge of arrays
 - Knowledge of [linked lists](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCgradeBook/FSCcourseRoster.java)
-- Ability to adhere to strict output requirements
-- Knowledge of classes and objects
-- Ability to write thorough and clear comments
 - Knowledge of file input and output
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
@@ -43,8 +37,6 @@ Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-P
 Total Length (including comments and blank lines): 277 lines.
 ### Skills Demonstrated
 - Knowledge of recursion
-- Ability to adhere to strict output requirements
-- Ability to write thorough and clear comments
 - Ability to use wrapper and helper methods
 - Knowledge of switch statements
 
@@ -58,8 +50,6 @@ Total Length (including comments and blank lines): 817 lines.
 - Knowledge of [binary search trees](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscBST.java)
 - Knowledge of [linked lists](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscLinkedDevices.java)
 - Knowledge of switch statements
-- Ability to adhere to strict output requirements
-- Knowledge of classes and objects
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
 ## [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/MocsBank)
@@ -71,8 +61,5 @@ Total Length (including comments and blank lines): 609 lines.
 - Knowledge of arrays
 - Knowledge of switch cases
 - Knowledge of file input and output
-- Ability to write thorough comments
-- Ability to adhere to strict output requirements
-- Knowledge of classes and objects
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
