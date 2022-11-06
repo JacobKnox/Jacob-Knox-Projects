@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public static int V;
     
@@ -7,31 +9,26 @@ class Solution {
         for(int i = 0; i < n; i++){
             Arrays.fill(graph[i], Integer.MAX_VALUE);
         }
-        for(int i = 0; i < edges.length; i++){
-            graph[edges[i][0]][edges[i][1]] = edges[i][2];
-            graph[edges[i][1]][edges[i][0]] = edges[i][2];
+        for(int[] edge : edges){
+            graph[edge[0]][edge[1]] = edge[2];
+            graph[edge[1]][edge[0]] = edge[2];
         }
-        int[] ansArr = new int[n];
+        int ans = 0, count = 0;
+        int min = Integer.MAX_VALUE;
         for(int i = 0; i < n; i++){
             int[] tempArr = dijkstra(graph, i);
-            System.out.println("tempArr for index " + i + ": " + Arrays.toString(tempArr));
-            int count = 0;
             for(int j = 0; j < tempArr.length; j++){
                 if(tempArr[j] <= distanceThreshold && tempArr[j] != 0){
                     count++;
                 }
             }
-            ansArr[i] = count;
+            if(count <= min){
+                min = count;
+                ans = i;
+            }
             count = 0;
         }
-        System.out.println(Arrays.toString(ansArr));
-        int min = 0;
-        for(int i = 0; i < n; i++){
-            if(ansArr[i] <= ansArr[min]){
-                min = i;
-            }
-        }
-        return min;
+        return ans;
     }
     
     int minDistance(int[] dist, boolean[] sptSet)

@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 class Solution {
     HashSet<Integer> detonated = new HashSet<>();
     public int maximumDetonation(int[][] bombs) {
