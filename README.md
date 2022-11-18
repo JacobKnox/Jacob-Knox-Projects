@@ -1,7 +1,7 @@
 # Jacob Knox Projects
 A repository of all of my projects and coding solutions/shenanigans.
 
-Quick Links: [Course Projects](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#project-directory) | [Smaller Problems Solved](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#other)
+Quick Links: [Personal Projects](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#personal-projects) | [Course Projects](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#course-related-projects) | [Smaller Problems Solved](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/README.md#other)
 ## Project Directory
 ### Personal Projects
 - [Java Math Library](https://github.com/JacobKnox/Math-Library-Project)
