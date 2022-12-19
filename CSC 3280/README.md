@@ -1,7 +1,7 @@
 # CSC 3280 Projects
-This folder holds all of my projects from my CSC 3280 - Data Structures (Fall 2021) course at Florida Southern College. Each project demonstrates my ability to adhere to strict output requirements, to write thorough and clear comments, and to program in an object oriented manner.
+This folder holds all of my projects from my CSC 3280 - Data Structures (Fall 2021) course at Florida Southern College. Each project demonstrates my ability to adhere to strict input/output requirements, to write thorough and clear comments, and to program in an object oriented manner.
 
-Quick Links: [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-car-clean) | [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-gradebook) | [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-recurse) | [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#fsc-sharing-is-caring) | [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#mocs-bank)
+Quick Links: [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#fsc-car-clean) | [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#fsc-gradebook) | [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#fsc-recurse) | [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#fsc-sharing-is-caring) | [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#mocs-bank)
 ## [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCcarClean)
 ### Description
 A basic program to simulate a "car wash" using stacks, queues, and objects. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program4_Fall2021.pdf).
@@ -11,7 +11,7 @@ Total Length (including comments and blank lines): 626 lines.
 - Knowledge of [stacks](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCcarClean/FSCvouchers.java)
 - Knowledge of [queues](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCcarClean/FSCcarCleanQ.java)
 
-[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#readme)
 
 ## [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCgradeBook)
 ### Description
@@ -23,7 +23,7 @@ Total Length (including comments and blank lines): 769 lines.
 - Knowledge of [linked lists](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCgradeBook/FSCcourseRoster.java)
 - Knowledge of file input and output
 
-[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#readme)
 ## [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCrecurse)
 ### Description
 A simple program that implements four resursive methods:
@@ -40,7 +40,7 @@ Total Length (including comments and blank lines): 277 lines.
 - Ability to use wrapper and helper methods
 - Knowledge of switch statements
 
-[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#readme)
 ## [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/FSCsharingiscaring)
 ### Description
 A program that simulates a new "proposed" network system at Florida Southern College where students can opt-in to have their devices used as a mobile hotspot for FSC's internet, which would thus extend the range of the campus' wifi. Each student controls devices that are and are not allowed to access their hotspot. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program5_Fall2021.pdf).
@@ -51,7 +51,7 @@ Total Length (including comments and blank lines): 817 lines.
 - Knowledge of [linked lists](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/FSCsharingiscaring/FSCscLinkedDevices.java)
 - Knowledge of switch statements
 
-[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#readme)
 ## [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280/MocsBank)
 ### Description
 A program that simulates a banking system for students at Florida Southern College. Students/Customers can open an account, request the balance on their account, deposit into their account, withdraw from their account, transfer money from their account to another customer's account, and close their account. There is also a command to print all transactions that have been done that day. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/Program%20Guidelines/CSC3280_Program1_Fall2021.pdf).
@@ -62,4 +62,4 @@ Total Length (including comments and blank lines): 609 lines.
 - Knowledge of switch cases
 - Knowledge of file input and output
 
-[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280/README.md#csc-3280-projects)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203280#readme)
