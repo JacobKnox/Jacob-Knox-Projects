@@ -18,7 +18,7 @@ Quick Links: [Personal Projects](https://github.com/JacobKnox/Jacob-Knox-Project
   - [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-sharing-is-caring)
   - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank)
 - [CSC 3520 - Machine Learning](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)
-  - [Homework 1 - Naive Bayesian Classifier]
+  - [Homework 1 - Naive Bayesian Classifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-1---naive-bayesian-classifier)
   - [Homework 2 - Decision Tree]
   - [Homework 3 - Decision Boundaries]
   - [Homework 4 - K-Nearest Neighbors and Support Vector Machine]
