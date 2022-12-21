@@ -50,8 +50,8 @@ None solved yet.
 - ([Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem19.java)) Problem 19: Remove Nth Node From End of List
 - ([Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem28.java)) Problem 28: Find the Index of the First Occurrence in a String
 - ([Problem](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem75.java)) Problem 75: Sort Colors
-- ([Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution]) Problem 82: Remove Duplicates from Sorted List II
-- ([Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution]) Problem 109: Convert Sorted List to Binary Search Tree
+- ([Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem82.java)) Problem 82: Remove Duplicates from Sorted List II
+- ([Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem109.java)) Problem 109: Convert Sorted List to Binary Search Tree
 - ([Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem695.java)) Problem 695: Max Area of Island
 - ([Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem743.java)) Problem 743: Network Delay Time
 - ([Problem](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1334.java)) Problem 1334: Find the City With the Smallest Number of Neighbors at a Threshold Distance
@@ -59,10 +59,10 @@ None solved yet.
 ### Easy
 - ([Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1.java)) Problem 1: Two Sum
 - ([Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem13.java)) Problem 13: Roman to Integer
-- ([Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution]) Problem 20: Valid Parentheses
-- ([Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution]) Problem 21: Merge Two Sorted Lists
-- ([Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution]) Problem 83: Remove Duplicates from Sorted List
-- ([Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution]) Problem 108: Convert Sorted Array to Binary Search Tree
+- ([Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem20.java)) Problem 20: Valid Parentheses
+- ([Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem21.java)) Problem 21: Merge Two Sorted Lists
+- ([Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem83.java)) Problem 83: Remove Duplicates from Sorted List
+- ([Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem108.java)) Problem 108: Convert Sorted Array to Binary Search Tree
 - ([Problem](https://leetcode.com/problems/island-perimeter/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem463.java)) Problem 463: Island Perimeter
 - ([Problem](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem733.java)) Problem 733: Flood Fill
 
