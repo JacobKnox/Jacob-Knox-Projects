@@ -4,7 +4,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-import pdb
 from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.metrics import confusion_matrix
 

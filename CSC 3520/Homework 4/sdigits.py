@@ -1,5 +1,5 @@
-# svm_demo.py
-# Simple demo of a Support Vector Machine (SVM) using scikit-learn.
+# sdigits.py
+# Implementing Support Vector Machine on MNIST dataset
 
 from sklearn import svm
 import tensorflow as tf
@@ -7,8 +7,8 @@ import argparse
 
 parser = argparse.ArgumentParser(description="Use an SVM to distinguish between written digits in the MNIST dataset.")
 parser.add_argument('-s', '--samples', help='number of training samples to use', default=60000)
-parser.add_argument('-c', '--c', help='number of training samples to use', default=1)
-parser.add_argument('-k', '--kernel', help='number of training samples to use', default="poly")
+parser.add_argument('-c', '--c', help='C argument for SVM', default=1)
+parser.add_argument('-k', '--kernel', help='kernel for the SVM to use', default="poly")
 
 
 def main(args):

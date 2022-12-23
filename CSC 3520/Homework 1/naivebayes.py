@@ -2,9 +2,7 @@
 """Perform document classification using a Naive Bayes model."""
 
 import argparse
-import math
 import os
-import pdb
 import numpy as np
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
@@ -80,7 +78,6 @@ def main(args):
     xtest = np.add(xtest, [-1, -1, 0])
 
     # Extract useful parameters
-    num_training_documents = len(np.unique(np.moveaxis(xtrain, 0, 1)[0]))
     num_testing_documents = len(np.unique(np.moveaxis(xtest, 0, 1)[0]))
     num_words = len(vocabulary)
     num_newsgroups = len(newsgroups)
@@ -136,7 +133,7 @@ def main(args):
 
     alphas = [0.055, 0.05, 0.06, 0.0525, 0.0575, 0.04, 0.075, 0.025, 0.204, 0.203, 0.2025, 0.201, 0.2, 0.205, 0.19, 0.0175, 0.21, 0.1, 0.015, 0.0125, 0.01, 0.3, 0.4, 0.5, 0.001, 0.0015, 0.6, 0.0001, 0.00001634307, 0.00001, 1]
     accuracies = [0.8079946702, 0.8075949367, 0.8075949367, 0.8075949367, 0.8074616922, 0.8071952032, 0.8065289807, 0.8062624917, 0.8057295137, 0.8057295137, 0.8057295137, 0.8057295137, 0.8055962692, 0.8054630247, 0.8054630247, 0.8054630247, 0.8051965356, 0.8046635576, 0.8046635576, 0.8038640906, 0.8037308461, 0.8035976016, 0.801065956, 0.798667555, 0.7970686209, 0.7966688874, 0.7941372418, 0.7889407062, 0.7852098601, 0.7838774151, 0.7810792805]
-    fig, ax = plt.subplots()
+    _, ax = plt.subplots()
     ax.scatter(alphas, accuracies)
     ax.semilogx()
     ax.set_xlabel("Alpha")

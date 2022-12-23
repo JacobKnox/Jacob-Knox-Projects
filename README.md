@@ -19,9 +19,9 @@ Quick Links: [Personal Projects](https://github.com/JacobKnox/Jacob-Knox-Project
   - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank)
 - [CSC 3520 - Machine Learning](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)
   - [Homework 1 - Naive Bayesian Classifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-1---naive-bayesian-classifier)
-  - [Homework 2 - Decision Tree]
-  - [Homework 3 - Decision Boundaries]
-  - [Homework 4 - K-Nearest Neighbors and Support Vector Machine]
+  - [Homework 2 - Decision Tree](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-2---decision-tree)
+  - [Homework 3 - Decision Boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-3---decision-boundaries)
+  - [Homework 4 - K-Nearest Neighbors and Support Vector Machine](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-4---k-nearest-neighbors-and-support-vector-machine)
   - [Predicting Spotify Song Popularity](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
 - [CSC 3610 - Introduction to Web Development](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#readme)
   - [Project 1](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610/Project%201)
