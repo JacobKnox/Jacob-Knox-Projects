@@ -4,10 +4,10 @@ This folder holds all of my accepted solutions to LeetCode problems I have attem
 Quick Links: [Statistics](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#statistics) | [Skills](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#skills) | [Problems Solved](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#problems-solved)
 
 ## Statistics
-- 36 problems solved (1.6% of all problems)
-- 20 out of 556 easy problems solved (better than 50.1% of users)
-- 16 out of 1183 medium problems solved (better than 52.4% of users)
-- 0 out of 479 hard problems solved (better than 0% of users)
+- 44 problems solved (1.8% of all problems)
+- 20 out of 556 easy problems solved (better than 51.6% of users)
+- 23 out of 1183 medium problems solved (better than 59.8% of users)
+- 1 out of 479 hard problems solved (not enough data)
 
 Updated statistics can be found on my [LeetCode profile](https://leetcode.com/JKnox203/).
 
@@ -15,9 +15,10 @@ Updated statistics can be found on my [LeetCode profile](https://leetcode.com/JK
 
 ## Skills
 ### Advanced
-- Divide and Conquer (3)
+- Divide and Conquer (4)
 - Union Find (3)
 - Shortest Path (2)
+- Quickselect (1)
 - Dynamic Programming (1)
 ### Intermediate
 - Depth-First Search (14)
@@ -25,18 +26,18 @@ Updated statistics can be found on my [LeetCode profile](https://leetcode.com/JK
 - Binary Tree (10)
 - Breadth-First Search (8)
 - Design (5)
+- Hash Table (5)
+- Recursion (5)
 - Graph (4)
-- Recursion (4)
-- Hash Table (3)
 ### Fundamental
-- Linked List (14)
-- Array (9)
-- Two Pointers (6)
+- Linked List (15)
+- Array (14)
+- Two Pointers (8)
 - Stack (5)
 - Matrix (4)
 - Queue (4)
-- String (1)
-- Simulation (1)
+- Sorting (4)
+- String (3)
 
 Updated skills can be found on my [LeetCode profile](https://leetcode.com/JKnox203/).
 
