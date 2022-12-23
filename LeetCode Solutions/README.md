@@ -45,6 +45,8 @@ Updated skills can be found on my [LeetCode profile](https://leetcode.com/JKnox2
 ## Problems Solved
 ### Hard
 - ([Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem164.java)) Problem 164: Maximum Gap
+
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#leetcode-solutions)
 ### Medium
 - ([Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem2.java)) Problem 2: Add Two Numbers
 - ([Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem19.java)) Problem 19: Remove Nth Node From End of List
@@ -56,10 +58,21 @@ Updated skills can be found on my [LeetCode profile](https://leetcode.com/JKnox2
 - ([Problem](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem155.java)) Problem 155: Min Stack
 - ([Problem](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem200.java)) Problem 200: Number of Islands
 - ([Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem215.java)) Problem 215: Kth Largest Element in an Array
+- ([Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem230.java)) Problem 230: Kth Smallest Element in a BST
+- ([Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem235.java)) Problem 235: Lowest Common Ancestor of a Binary Search Tree
+- ([Problem](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem328.java)) Problem 328: Odd Even Linked List
+- ([Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem538.java)) Problem 538: Convert BST to Greater Tree
+- ([Problem](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem547.java)) Problem 547: Number of Provinces
+- ([Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem622.java)) Problem 622: Design Circular Queue
+- ([Problem](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem669.java)) Problem 669: Trim a Binary Search Tree
 - ([Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem695.java)) Problem 695: Max Area of Island
 - ([Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem743.java)) Problem 743: Network Delay Time
 - ([Problem](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1334.java)) Problem 1334: Find the City With the Smallest Number of Neighbors at a Threshold Distance
+- ([Problem](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1382.java)) Problem 1382: Balance a Binary Search Tree
+- ([Problem](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1833.java)) Problem 1833: Maximum Ice Cream Bars
 - ([Problem](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem2101.java)) Problem 2101: Detonate the Maximum Bombs
+
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#leetcode-solutions)
 ### Easy
 - ([Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem1.java)) Problem 1: Two Sum
 - ([Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/LeetCode%20Solutions/Problem13.java)) Problem 13: Roman to Integer
