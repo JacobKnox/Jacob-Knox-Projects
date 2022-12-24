@@ -7,7 +7,7 @@ Quick Links: [PHP Practice 1](https://github.com/JacobKnox/Jacob-Knox-Projects/t
 ### Description
 A basic PHP program that prints a triangle of asterisks, a chess board, factorials, and a "water bill" calculation (using information from the GET array). Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%204610/Practice%20Specifications/PHP%20Practice%201.pdf).
 
-Total Length (including spaces and comments): 74 lines of PHP/HTML.
+Total Length (including spaces and comments): 74 lines of PHP.
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
 
@@ -15,15 +15,15 @@ Total Length (including spaces and comments): 74 lines of PHP/HTML.
 ### Description
 PHP program that connects with a database with basic information for some cats and displays that information on the page. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%204610/Practice%20Specifications/PHP%20Practice%202.pdf).
 
-Total Length (including spaces and comments): 91 lines of PHP/HTML.
+Total Length (including spaces and comments): 91 lines of PHP.
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
 
-## [PHP Practice 3](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%204610/phppractice3.php)
+## [PHP Practice 3](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%204610/PHP%20Practice%203)
 ### Description
 Expands on [PHP Practice 2] by adding the ability to add cats to the database through a form, delete a cat, and filter cats by whether or not they are considered "senior" (11 years of age or older). Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%204610/Practice%20Specifications/PHP%20Practice%203.pdf).
 
-Total Length (including spaces and comments): 135 lines of PHP/HTML.
+Total Length (including spaces and comments): 289 lines of PHP.
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
 
