@@ -12,8 +12,8 @@
 # Minimized CSS is generated
 *.min.css linguist-generated
 # Basically all JSON, config, and rules files are generated and rarely ever edited by me
-*.json linguist-generated
-*.config.js linguist-generated
+*.json -linguist-detectable
+*.config.js -linguist-detectable
 *.rules linguist-generated
 *.xml linguist-generated
 *.lock linguist-generated
