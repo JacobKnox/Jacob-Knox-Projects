@@ -9,3 +9,8 @@
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
+
+bootstrap/** -linguist-detectable
+config/** -linguist-detectable
+lang/** -linguist-detectable
+artisan -linguist-detectable
