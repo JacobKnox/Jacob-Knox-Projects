@@ -10,7 +10,6 @@ Quick Links: [Personal Projects](https://github.com/JacobKnox/Jacob-Knox-Project
 - [Pokemon TCG SDK PHP](https://github.com/JacobKnox/pokemon-tcg-sdk-php#readme)
 - [Flappucinno](https://github.com/JacobKnox/Flappuccino#readme)
 ### Course-Related Projects
-- [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme)
 - [CSC 3280 - Data Structures](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#readme)
   - [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-car-clean)
   - [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-gradebook)
@@ -33,6 +32,12 @@ Quick Links: [Personal Projects](https://github.com/JacobKnox/Jacob-Knox-Project
   - [Project 0](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%200)
   - [Project 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/project2)
   - [Project 3](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/project3)
+- [CSC 4610 - Advanced Topics in Web Development](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
+  - [PHP Practice 1](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-1)
+  - [PHP Practice 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-2)
+  - [PHP Practice 3](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-3)
+  - [Laravel Practices](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#laravel-practices-2-5)
+  - [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme)
 - [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP)
 ## Other
 - [LeetCode Solutions](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#readme)
