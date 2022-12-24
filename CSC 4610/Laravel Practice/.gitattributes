@@ -14,3 +14,4 @@ bootstrap/** linguist-vendored
 config/** linguist-vendored
 lang/** linguist-vendored
 artisan linguist-vendored
+tests/** linguist-vendored

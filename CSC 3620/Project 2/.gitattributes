@@ -1,0 +1,4 @@
+src/main.js linguist-vendored
+public/** linguist-vendored
+dist/** linguist-generated
+Setup/** linguist-generated
