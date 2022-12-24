@@ -1,4 +1,8 @@
 src/main.js linguist-vendored
 public/** linguist-vendored
+Setup/** linguist-vendored
 dist/** linguist-generated
-Setup/** linguist-generated
+*.json linguist-generated
+*.lock linguist-generated
+*.rules linguist-generated
+*.config.js linguist-generated

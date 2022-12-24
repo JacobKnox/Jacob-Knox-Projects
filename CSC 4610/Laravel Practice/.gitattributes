@@ -1,17 +1,10 @@
-* text=auto
-
-*.blade.php diff=html
-*.css diff=css
-*.html diff=html
-*.md diff=markdown
-*.php diff=php
-
-/.github export-ignore
-CHANGELOG.md export-ignore
-.styleci.yml export-ignore
-
 bootstrap/** linguist-vendored
 config/** linguist-vendored
 lang/** linguist-vendored
 artisan linguist-vendored
 tests/** linguist-vendored
+.editorconfig linguist-vendored
+*.json linguist-generated
+*.lock linguist-generated
+*.xml linguist-generated
+*.config.js linguist-generated
