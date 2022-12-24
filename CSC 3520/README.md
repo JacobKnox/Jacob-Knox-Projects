@@ -1,12 +1,13 @@
 # CSC 3520 Homeworks
 This folder holds all of my homework solutions for my CSC 3520 - Machine Learning (Fall 2022) course at Florida Southern College.
+**All code here is in Python.**
 
 Quick Links: [Homework 1](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-1---naive-bayesian-classifier) | [Homework 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-2---decision-tree) | [Homework 3](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-3---decision-boundaries) | [Homework 4](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-4---k-nearest-neighbors-and-support-vector-machine)
 
 ## [Homework 1 - Naive Bayesian Classifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520/Homework%201)
 Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%201.pdf) to implement a [naive bayesian classifier](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%201/naivebayes.py) that determines what category an article falls under based on the words in the article.
 
-Total Length: 146 lines (including spaces and comments)
+Total Length (including spaces and comments): 146 lines
 
 ### Required Libraries
 - numpy
@@ -26,7 +27,7 @@ Total Length: 146 lines (including spaces and comments)
 Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%202.pdf) to implement a [decision tree](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%202/decisiontree.py) that predicts  whether or not someone has 
 Parkinson’s based on dysphonia measurements.
 
-Total Length: 56 lines (including spaces and comments)
+Total Length (including spaces and comments): 56 lines
 
 ### Required Libraries
 - numpy
@@ -38,7 +39,7 @@ Total Length: 56 lines (including spaces and comments)
 ## [Homework 3 - Decision Boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520/Homework%203)
 Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%203.pdf) to visual the [decision boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%203/decisionboundaries.py) created by a simple input-hidden-output (2-2-1) "neural network" with bias.
 
-Total Length: 46 lines (including spaces and comments)
+Total Length (including spaces and comments): 46 lines
 
 ### Required Libraries
 - numpy
@@ -50,7 +51,7 @@ Total Length: 46 lines (including spaces and comments)
 ## [Homework 4 - K-Nearest Neighbors and Support Vector Machine](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520/Homework%204)
 Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%204.pdf) to implement a [k-nearest neighbors model](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%204/kdigits.py) and a [support vector machine](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%204/sdigits.py) on the MNIST hand-written digits dataset.
 
-Total Length: 79 lines (including spaces and comments)
+Total Length (including spaces and comments): 79 lines
 
 ### Required Libraries
 - numpy [kdigits.py only]
