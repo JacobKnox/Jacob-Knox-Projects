@@ -10,7 +10,7 @@
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
 
-bootstrap/** -linguist-detectable
-config/** -linguist-detectable
-lang/** -linguist-detectable
-artisan -linguist-detectable
+bootstrap/** linguist-vendored
+config/** linguist-vendored
+lang/** linguist-vendored
+artisan linguist-vendored
