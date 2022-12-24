@@ -1,7 +1,8 @@
 # CSC 3610 Projects
 This folder holds all of my projects from my CSC 3610 - Introduction to Web Development (Fall 2021) course at Florida Southern College.
 
-Quick Links: [Project 1](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-1---basic-personal-website) | [Project 2](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-2---replicating-a-website)
+Quick Links: [Project 1](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-1---basic-personal-website) | [Project 2](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-2---replicating-a-website) | [Project 3](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-3---implementing-bootstrap) | [Project 4](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-4---interactive-color-identifier) | [Project 5](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-5---weather-girl-website)
+
 ## [Project 1 - Basic Personal Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610/Project%201)
 ### Description
 A very basic personal website implementing HTML to demonstrate the most basic knowledge required for web development. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Project%20Guidelines/Project%201%20Guidelines.pdf).
