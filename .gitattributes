@@ -1,0 +1,37 @@
+# Markdown files are for my READMEs
+*.md linguist-documentation
+# PDF files are for the specifications for each project (generally)
+*.pdf linguist-documentation
+# TXT files are for data (generally)
+*.txt linguist-documentation
+# Image files don't need to be tracked
+*.png linguist-documentation
+*.jpg linguist-documentation
+*.gif linguist-documentation
+*.ico linguist-documentation
+# Minimized CSS is generated
+*.min.css linguist-generated
+# Basically all JSON, config, and rules files are generated and rarely ever edited by me
+*.json linguist-generated
+*.config.js linguist-generated
+*.rules linguist-generated
+*.xml linguist-generated
+*.lock linguist-generated
+
+*/dist/** linguist-generated
+*/Setup/** linguist-generated
+*/tests/** linguist-generated
+*/webfonts/** linguist-vendored
+
+
+CSC 3620/Project 2/src/main.js linguist-generated
+CSC 3620/Project 2/public/** linguist-generated
+CSC 3620/Project 3/src/main.js linguist-generated
+CSC 3620/Project 3/public/** linguist-generated
+CSC 3620/Project 4/src/main.js linguist-generated
+CSC 3620/Project 4/public/** linguist-generated
+CSC 3620/Project 5/src/main.js linguist-generated
+CSC 3620/Project 5/public/** linguist-generated
+CSC 4610/Laravel Practice/config/** linguist-vendored
+CSC 4610/Laravel Practice/bootstrap/** linguist-vendored
+CSC 4610/Laravel Practice/lang/** linguist-vendored
