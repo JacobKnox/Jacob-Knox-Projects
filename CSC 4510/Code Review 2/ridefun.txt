@@ -1,0 +1,16 @@
+Walt Disney's Enchanted Tiki Room,5
+Pirates of the Caribbean,10
+Splash Mountain,9
+Big Thunder Mountain Railroad,9
+The Hall of Presidents,1
+Haunted Mansion,4
+Mickey's PhilharMagic,6
+Peter Pan's Flight,7
+It's a Small World,5
+Seven Dwarfs Mine Train,8
+Tomorrowland Speedway,7
+Space Mountain,10
+Astro Orbiter,3
+Tomorrowland Transit Authority PeopleMover,1
+Walt Disney's Carousel of Progress,3
+Buzz Lightyear's Space Ranger Spin,8

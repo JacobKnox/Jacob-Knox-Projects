@@ -1,0 +1,17 @@
+Entrance,405,649
+Walt Disney's Enchanted Tiki Room,154,451
+Pirates of the Caribbean,103,464
+Splash Mountain,25,312
+Big Thunder Mountain Railroad,66,264
+The Hall of Presidents,294,308
+Haunted Mansion,235,224
+Mickey's PhilharMagic,381,244
+Peter Pan's Flight,334,214
+It's a Small World,319,185
+Seven Dwarfs Mine Train,490,197
+Tomorrowland Speedway,598,311
+Space Mountain,726,379
+Astro Orbiter,640,425
+Tomorrowland Transit Authority PeopleMover,623,432
+Walt Disney's Carousel of Progress,632,468
+Buzz Lightyear's Space Ranger Spin,591,441
