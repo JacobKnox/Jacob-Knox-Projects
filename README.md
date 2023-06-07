@@ -20,7 +20,7 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
   - [PHP Practice 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-2)
   - [PHP Practice 3](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-3)
   - [Laravel Practices](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#laravel-practices-2-5)
-  - [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme)
+  - [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme) - Website for looking at Pokemon cards and managing your collection(s) and deck(s). **(WIP)**
 - [CSC 3620 - Web Application Architectures](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620#readme)
   - [Basic Matching Game](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%200)
   - [Simple Monster Battle App](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%202)
@@ -45,6 +45,6 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
   - [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-recurse)
   - [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-sharing-is-caring)
   - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank)
-- [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP)
+- [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP) - Incredibly basic "mental health tester/screener" made in both JavaScript and Python back when I was still learning both. **(Never Fully Completed)**
 ## Other
 - [LeetCode Solutions](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#readme)
