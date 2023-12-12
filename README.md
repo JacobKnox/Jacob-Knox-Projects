@@ -14,7 +14,9 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
 - [Pokemon TCG SDK PHP](https://github.com/JacobKnox/pokemon-tcg-sdk-php#readme) - Attempting to fix issues where IDEs like Visual Studio Code show "no such method" while still working, attempting to add more complex queries, and generally trying to improve user friendliness.
 - [Flappucinno](https://github.com/JacobKnox/Flappuccino#readme) - Refactored code to be more Pythonic, added some features (i.e.: window resizability), removed ability for player to enter negative height, and implemented changes mentioned in other pull requests.
 ### Course-Related Projects
-- [FSC File Share](https://github.com/JacobKnox/FSC-File-Share#readme) - File sharing website intended for Florida Southern students to share works that they are proud of. This is my Honors project at Florida Southern. **(Not Yet Started)**
+- [GANimation](https://github.com/pharmony01/SeniorProject#readme) - Applying generative adversarial networks to perform video interpolation. This was our Computer Science senior project at Florida Southern College.
+- [Anomaly Detection in Chest X-Rays](https://github.com/JacobKnox/Anomaly-Detection-in-Chest-Xrays#readme) - Applying a convolutional neural network to identify anomalies (i.e.: COVID, tuberculosis, pneumonia, etc.) in chest x-rays. This was my Mathematics senior seminar project at Florida Southern College.
+- [FSC File Share](https://github.com/JacobKnox/FSC-File-Share#readme) - File sharing website intended for Florida Southern College students to share works that they are proud of. This is my Honors project at Florida Southern College. **(WIP)**
 - [CSC 4610 - Advanced Topics in Web Development](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
   - [PHP Practice 1](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-1)
   - [PHP Practice 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-2)
@@ -39,6 +41,10 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
   - [Decision Boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-3---decision-boundaries)
   - [K-Nearest Neighbors and Support Vector Machine](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-4---k-nearest-neighbors-and-support-vector-machine)
   - [Predicting Spotify Song Popularity](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
+- CSC 3510 - Introduction to Artificial Intelligence
+  - [Homework 1 - Worlde Player](https://github.com/JacobKnox/wordle)
+  - [Homework 2 - Robby BFS](https://github.com/JacobKnox/Robby-BFS#readme)
+  - [Homework 3 - Pancakes GBFS and Rubiks A* Search](https://github.com/JacobKnox/Pancakes-GBFS-Rubiks-A-Star#readme)
 - [CSC 3280 - Data Structures](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#readme)
   - [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-car-clean)
   - [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-gradebook)
