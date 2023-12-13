@@ -21,11 +21,10 @@ Total Length (including spaces and comments): 146 lines
 - -n / --newsgroups (path to the newsgroups file)
 - -v / --vocabulary (path to the vocabulary file)
 
-[Top](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)
 
 ## [Homework 2 - Decision Tree](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520/Homework%202)
-Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%202.pdf) to implement a [decision tree](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%202/decisiontree.py) that predicts  whether or not someone has 
-Parkinson’s based on dysphonia measurements.
+Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%202.pdf) to implement a [decision tree](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%202/decisiontree.py) that predicts  whether or not someone has Parkinson’s based on dysphonia measurements.
 
 Total Length (including spaces and comments): 56 lines
 
@@ -34,10 +33,10 @@ Total Length (including spaces and comments): 56 lines
 - matplotlib (uses pyplot)
 - sklearn (uses DecisionTreeClassifier and plot_tree from tree and confusion_matrix from metrics)
 
-[Top](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)
 
 ## [Homework 3 - Decision Boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520/Homework%203)
-Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%203.pdf) to visual the [decision boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%203/decisionboundaries.py) created by a simple input-hidden-output (2-2-1) "neural network" with bias.
+Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%203.pdf) to visualize the [decision boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%203/decisionboundaries.py) created by a simple input-hidden-output (2-2-1) "neural network" with bias.
 
 Total Length (including spaces and comments): 46 lines
 
@@ -46,7 +45,7 @@ Total Length (including spaces and comments): 46 lines
 - matplotlib (uses pyplot)
 - sklearn (uses cartesian from utils.extmath)
 
-[Top](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)
 
 ## [Homework 4 - K-Nearest Neighbors and Support Vector Machine](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520/Homework%204)
 Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%20Guidelines/Homework%204.pdf) to implement a [k-nearest neighbors model](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%204/kdigits.py) and a [support vector machine](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203520/Homework%204/sdigits.py) on the MNIST hand-written digits dataset.
@@ -68,4 +67,4 @@ Total Length (including spaces and comments): 79 lines
 - -c / --c (C argument to pass into the SVM)
 - -k / --kernel (which kernel to use for the SVM)
 
-[Top](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
+[Top](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)

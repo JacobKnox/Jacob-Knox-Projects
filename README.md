@@ -16,7 +16,7 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
 ### Course-Related Projects
 - [GANimation](https://github.com/pharmony01/SeniorProject#readme) - Applying generative adversarial networks to perform video interpolation. This was our Computer Science senior project at Florida Southern College.
 - [Anomaly Detection in Chest X-Rays](https://github.com/JacobKnox/Anomaly-Detection-in-Chest-Xrays#readme) - Applying a convolutional neural network to identify anomalies (i.e.: COVID, tuberculosis, pneumonia, etc.) in chest x-rays. This was my Mathematics senior seminar project at Florida Southern College.
-- [FSC File Share](https://github.com/JacobKnox/FSC-File-Share#readme) - File sharing website intended for Florida Southern College students to share works that they are proud of. This is my Honors project at Florida Southern College. **(WIP)**
+- FSC File Share - File sharing website intended for Florida Southern College students to share works that they are proud of. This is my Honors project at Florida Southern College. **(WIP - Not Public)**
 - [CSC 4610 - Advanced Topics in Web Development](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
   - [PHP Practice 1](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-1)
   - [PHP Practice 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-2)
@@ -30,27 +30,27 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
   - [Basic Pokemon Vue App](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%204)
   - [Basic Personal Vue Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%205)
 - [CSC 3610 - Introduction to Web Development](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#readme)
-  - [Basic Personal Website](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-1---basic-personal-website)
-  - [Replicating a Website](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-2---replicating-a-website)
-  - [Implementing Bootstrap](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-3---implementing-bootstrap)
-  - [Interactive Color Identifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-4---interactive-color-identifier)
-  - [Weather Girl Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-5---weather-girl-website)
+  - [Basic Personal Website](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-1---basic-personal-website) - Basic HTML personal website.
+  - [Replicating a Website](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#project-2---replicating-a-website) - Uses HTML and CSS to replicate an image of a website.
+  - [Implementing Bootstrap](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-3---implementing-bootstrap) - Implements Bootstrap to make a responsive website.
+  - [Interactive Color Identifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-4---interactive-color-identifier) - Implements JavaScript to make an interactive game (color identifier).
+  - [Weather Girl Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610#project-5---weather-girl-website) - Implements JavaScript to call an API and get weather data for a website.
 - [CSC 3520 - Machine Learning](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#readme)
-  - [Naive Bayesian Classifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-1---naive-bayesian-classifier)
-  - [Decision Tree](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-2---decision-tree)
-  - [Decision Boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-3---decision-boundaries)
-  - [K-Nearest Neighbors and Support Vector Machine](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-4---k-nearest-neighbors-and-support-vector-machine)
-  - [Predicting Spotify Song Popularity](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme)
+  - [Naive Bayesian Classifier](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-1---naive-bayesian-classifier) - Implements a naive bayesian classifier to categorize articles given word frequencies.
+  - [Decision Tree](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-2---decision-tree) - Implements a decision tree to predict Parkinson's disease.
+  - [Decision Boundaries](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-3---decision-boundaries) - Visualizes the decision boundary of a neural network with one hidden layer.
+  - [K-Nearest Neighbors and Support Vector Machine](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203520#homework-4---k-nearest-neighbors-and-support-vector-machine) - Implements a KNN and SVM to classify samples from the MNIST digits dataset.
+  - [Predicting Spotify Song Popularity](https://github.com/JacobKnox/Predicting-Spotify-Song-Popularity#readme) - Implements a decision tree and neural network to predict the popularity of a song on Spotify.
 - CSC 3510 - Introduction to Artificial Intelligence
-  - [Homework 1 - Worlde Player](https://github.com/JacobKnox/wordle)
-  - [Homework 2 - Robby BFS](https://github.com/JacobKnox/Robby-BFS#readme)
-  - [Homework 3 - Pancakes GBFS and Rubiks A* Search](https://github.com/JacobKnox/Pancakes-GBFS-Rubiks-A-Star#readme)
+  - [Worlde Player](https://github.com/JacobKnox/wordle) - A simple AI player for the game Wordle implementing letter frequency and vector analyses. The file syntaxscholars_ai.py is our AI player.
+  - [Robby BFS](https://github.com/JacobKnox/Robby-BFS#readme) - Implements breadth first search to solve mazes.
+  - [Pancakes GBFS and Rubiks A* Search](https://github.com/JacobKnox/Pancakes-GBFS-Rubiks-A-Star#readme) - Implements greedy best first search to solve the [Pancake sorting problem](https://en.wikipedia.org/wiki/Pancake_sorting) and implements A* search to solve rubiks cubes.
 - [CSC 3280 - Data Structures](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#readme)
-  - [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-car-clean)
-  - [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-gradebook)
-  - [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-recurse)
-  - [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-sharing-is-caring)
-  - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank)
-- [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP) - Incredibly basic "mental health tester/screener" made in both JavaScript and Python back when I was still learning both. **(Never Fully Completed)**
+  - [FSC Car Clean](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-car-clean) - Simulates a car wash using stacks, queues, and objects.
+  - [FSC Gradebook](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-gradebook) - Simulates a gradebook using arrays, singly linked lists, and objects.
+  - [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-recurse) - Implements four basic recursive functions.
+  - [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-sharing-is-caring) - Simulates a "proposed" network using binary search trees, linked lists, and objects.
+  - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank) - Simulates a student banking system.
+- [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP) - Incredibly basic "mental health tester/screener" made in both JavaScript and Python back when I was still learning both.
 ## Other
 - [LeetCode Solutions](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#readme)
