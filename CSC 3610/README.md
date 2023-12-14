@@ -7,6 +7,25 @@ Quick Links: [Project 1](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/m
 ## [Project 1 - Basic Personal Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610/Project%201)
 A very basic personal website implementing HTML to demonstrate the most basic knowledge required for web development. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Project%20Guidelines/Project%201%20Guidelines.pdf).
 
+### **<p align="center">Home Page</p>**
+![Image of the top of the home page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Home%201.png)
+![Image of the bottom of the home page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Home%202.png)
+### **<p align="center">Lakeland Page</p>**
+![Image of the top of the Lakeland page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Lakeland%201.png)
+![Image of the bottom of the Lakeland page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Lakeland%202.png)
+### **<p align="center">Pets Page</p>**
+![First image of the pets page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Pets%201.png)
+![Second image of the pets page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Pets%202.png)
+![Third image of the pets page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Pets%203.png)
+![Fourth image of the pets page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Pets%204.png)
+![Fifth image of the pets page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Pets%205.png)
+### **<p align="center">Projects Page</p>**
+![Image of the Projects page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Projects.png)
+### **<p align="center">Quotes Page</p>**
+![Image of the Quotes page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Quotes.png)
+### **<p align="center">Contact Page</p>**
+![Image of the Contact page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/Personal%20Contact.png)
+
 Total Length (including spaces and comments): 304 lines of HTML.
 
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#readme)
