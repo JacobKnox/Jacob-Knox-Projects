@@ -31,7 +31,7 @@ Total Length (including spaces and comments): 304 lines of HTML.
 [Top](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610#readme)
 
 ## [Project 2 - Replicating a Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203610/Project%202)
-A basic website implenting HTML and CSS to replicate an image of a page given certain resources from the website. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Project%20Guidelines/Project%202%20Guidelines.pdf).
+A basic website implementing HTML and CSS to replicate an image of a page given certain resources from the website. Follows the guidelines outlined [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Project%20Guidelines/Project%202%20Guidelines.pdf).
 
 ![Image of the top part of the page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/TMNT%20Top.png)
 ![Image of the bottom part of the page](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/CSC%203610/Images/TMNT%20Bottom.png)
