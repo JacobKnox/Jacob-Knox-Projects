@@ -7,6 +7,7 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
 ## Project Directory
 ### Personal Projects
 - [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#readme) - Discord bot that is intended on having multiple purposes, but currently has commands primarily related to the browser-based nation simulator game Politics and War. **(WIP)**
+- [Scripts](https://github.com/JacobKnox/scripts#readme) - Miscellaneous scripts I've written for a variety of purposes.
 - [Java Math Library](https://github.com/JacobKnox/Math-Library-Project#readme) - My own math library in Java that doesn't currently have much. **(WIP)**
 - [FBLA Competition Website](https://github.com/JacobKnox/FBLA_Web_Design_Project) - Basic website for a fictitious accounting firm made for the 2018 Future Business Leaders of America (FBLA) web design competition. **(Never Fully Completed)**
 ### Forks (Contributing to Others' Projects)
