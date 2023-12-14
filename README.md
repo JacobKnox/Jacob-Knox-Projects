@@ -51,6 +51,9 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
   - [FSC Recurse](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-recurse) - Implements four basic recursive functions.
   - [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-sharing-is-caring) - Simulates a "proposed" network using binary search trees, linked lists, and objects.
   - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank) - Simulates a student banking system.
+- [MAT 3100 - Foundations of Data Analytics](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#readme)
+  - [Task 5](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#task-5) - Creates a multiple linear regression model from the four variables of interest.
+  - [Task 6](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#task-6) - Creates linear regression models from all combinations of the four variables of interest to test which is best.
 - [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP) - Incredibly basic "mental health tester/screener" made in both JavaScript and Python back when I was still learning both.
 ## Other
 - [LeetCode Solutions](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#readme)

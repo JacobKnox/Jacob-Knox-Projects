@@ -1,4 +1,4 @@
-# MAT 3100 Projects
+# MAT 3100 Code
 This folder holds code from my MAT 3100 - Foundations of Data Analytics course at Florida Southern College. All code uses the cleaned/manipulated [hurricane data](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100/Hurricane%20Data%20-%20Clean%202-2.csv) and [buoy data](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100/Buoy%20Data%20-%20Clean-2.csv) found in this folder. The final report for the course can be found [here](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100/Final%20Report.pdf).
 **All code here is in R.**
 
