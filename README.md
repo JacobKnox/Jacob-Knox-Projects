@@ -3,7 +3,7 @@ A repository of all of my projects and coding solutions/shenanigans.
 
 Quick Links: [Personal Projects](https://github.com/JacobKnox/Jacob-Knox-Projects#personal-projects) | [Course Projects](https://github.com/JacobKnox/Jacob-Knox-Projects#course-related-projects) | [Smaller Problems Solved](https://github.com/JacobKnox/Jacob-Knox-Projects#other)
 
-Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#readme) **(WIP)** | [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme) **(WIP)**
+Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#readme) **(WIP)** | [GANimation](https://github.com/pharmony01/SeniorProject#readme) | [Anomaly Detection in Chest X-Rays](https://github.com/JacobKnox/Anomaly-Detection-in-Chest-Xrays#readme)
 ## Project Directory
 ### Personal Projects
 - [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#readme) - Discord bot that is intended on having multiple purposes, but currently has commands primarily related to the browser-based nation simulator game Politics and War. **(WIP)**
@@ -19,13 +19,13 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
 - [Anomaly Detection in Chest X-Rays](https://github.com/JacobKnox/Anomaly-Detection-in-Chest-Xrays#readme) - Applying a convolutional neural network to identify anomalies (i.e.: COVID, tuberculosis, pneumonia, etc.) in chest x-rays. This was my Mathematics senior seminar project at Florida Southern College.
 - FSC File Share - File sharing website intended for Florida Southern College students to share works that they are proud of. This is my Honors project at Florida Southern College. **(WIP - Not Public)**
 - [CSC 4610 - Advanced Topics in Web Development](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#readme)
-  - [PHP Practice 1](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-1)
-  - [PHP Practice 2](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-2)
-  - [PHP Practice 3](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-3)
-  - [Laravel Practices](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#laravel-practices-2-5)
-  - [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme) - Website for looking at Pokemon cards and managing your collection(s) and deck(s). **(WIP)**
+  - [Printing and Using GET](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-1) - Performs some basic printing and GET array accessing in PHP.
+  - [Cat Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-2) - Displays information about a few cats in a database.
+  - [Improved Cat Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#php-practice-3) - Improves upon the previous by adding ways to interact with the cat database and filter the cats by age.
+  - [Laravel Version of Cat Website](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%204610#laravel-practices-2-5) - Implements the above cat website in Laravel and adding a user system.
+  - [PokeTCG Card Manager](https://github.com/JacobKnox/PokeTCG-Card-Manager#readme) - Website for looking at Pokemon cards and managing your collection(s) and deck(s).
 - [CSC 3620 - Web Application Architectures](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620#readme)
-  - [Basic Matching Game](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%200)
+  - [Basic Matching Game](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%200) - A basic matching game website made with HTML, CSS, and JavaScript.
   - [Simple Monster Battle App](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%202)
   - [Simple Quote Tracker](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%203)
   - [Basic Pokemon Vue App](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203620/Project%204)
@@ -53,8 +53,8 @@ Highlights: [Discord Bot](https://github.com/JacobKnox/Personal-Discord-Bot#read
   - [FSC Sharing is Caring](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#fsc-sharing-is-caring) - Simulates a "proposed" network using binary search trees, linked lists, and objects.
   - [Mocs Bank](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/CSC%203280#mocs-bank) - Simulates a student banking system.
 - [MAT 3100 - Foundations of Data Analytics](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#readme)
-  - [Task 5](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#task-5) - Creates a multiple linear regression model from the four variables of interest.
-  - [Task 6](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#task-6) - Creates linear regression models from all combinations of the four variables of interest to test which is best.
+  - [Multiple Regression Linear Model](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#task-5) - Creates a multiple linear regression model from the four variables of interest.
+  - [All Combinations of Models](https://github.com/JacobKnox/Jacob-Knox-Projects/blob/main/MAT%203100#task-6) - Creates linear regression models from all combinations of the four variables of interest to test which is best.
 - [AP Computer Science Principles Create Task](https://github.com/JacobKnox/CreateTask_APCSP) - Incredibly basic "mental health tester/screener" made in both JavaScript and Python back when I was still learning both.
 ## Other
 - [LeetCode Solutions](https://github.com/JacobKnox/Jacob-Knox-Projects/tree/main/LeetCode%20Solutions#readme)
